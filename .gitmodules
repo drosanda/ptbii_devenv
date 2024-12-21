@@ -1,0 +1,3 @@
+[submodule "src/dev"]
+	path = src/dev
+	url = https://git@git.thecloudalert.com/biipt/erp.git
